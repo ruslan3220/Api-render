@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid blueviolet;
+}
+.container {
+  width: 1000px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.movie-list,
+.movie-list-post,
+.movie-list-comment {
+  list-style: none;
+}
